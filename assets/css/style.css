@@ -1,0 +1,13 @@
+
+.bit-slider {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bit-slider img {
+  max-height: 500px;
+  margin: 0 auto;
+}
+img {
+  max-width: 100%;
+}

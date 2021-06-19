@@ -1,0 +1,18 @@
+body {
+    padding-top: 60px;
+  }
+
+  .dropdown-variantai {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+  }
+  
+  
+  .card {
+    position: relative;
+  }
+  
+  .opacity {
+    opacity: 0.9;
+  }

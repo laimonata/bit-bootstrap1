@@ -1,0 +1,51 @@
+
+img {
+    max-width: 100%;
+  }
+  
+  
+  
+.first-page {
+    background: #f4efe9;
+  }
+
+.slaideris {
+    background: #ffffff;
+}
+
+.slaideris-2 {
+    background: #f4efe9;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section-sub-title {
+    color: #ababab;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 1.43;
+    margin-top: -5px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.41;
+
+}
+
+.text-color-primary {
+    color: #086AD8;
+}
+
+.slaider-card {
+    width: 761px;
+    height:283px;
+    margin-right: 50px;
+    background: #ffffff;
+}

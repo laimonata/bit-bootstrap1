@@ -12,6 +12,7 @@ body {
 .container {
   padding-right: 15px;
   padding-left: 15px;
+  max-width: 1140px;
 }
 
 .row {
@@ -96,14 +97,12 @@ body {
 }
 
 .col-lg-4 {
-    padding-right: 15px;
-    padding-left: 15px;
-    flex: 0 0 33.33333%;
-    position: relative;
-    width: 100%;
-    min-height: 1px;
-  
-
+  padding-right: 15px;
+  padding-left: 15px;
+  flex: 0 0 33.33333%;
+  position: relative;
+  width: 100%;
+  min-height: 1px;
 }
 
 .single-widget {
@@ -168,4 +167,19 @@ body {
 .widget-details p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+.post-content-area {
+  background: #f9f9ff;
+  display: block;
+  box-sizing: border-box;
+}
+
+.post-list {
+  box-sizing: border-box;
+}
+
+.post-content-area,
+.single-post {
+  margin-bottom: 50px;
 }
