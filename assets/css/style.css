@@ -11,3 +11,15 @@
 img {
   max-width: 100%;
 }
+
+.slick-prev:before {
+    content: "<";
+    color: rgb(15, 15, 15);
+    font-size: 70px;
+}
+
+.slick-next:before {
+    content: ">";
+    color: rgb(15, 15, 15);
+    font-size: 70px;
+}
